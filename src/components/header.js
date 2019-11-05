@@ -8,7 +8,8 @@ const Header = () => {
         query {
             site {
                 siteMetadata {
-                    title
+                    title,
+                    author
                 }
             }
         }
@@ -19,6 +20,7 @@ const Header = () => {
             <h1>
                 <Link className={headerStyles.title} to="/">{ data.site.siteMetadata.title }</Link>
             </h1>
+            <h2>A porfolio site by { data.site.siteMetadata.author }.</h2>
             <nav>
                 <ul className={headerStyles.navList}>
                     <li>
