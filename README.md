@@ -18,4 +18,14 @@ Encountered issues:
 
 ## Video markers
 
-Nov 7 -
+Nov 7
+
+Nov 21 (3:18:00)
+
+- installed gatsby-plugin sharp. allows use of sharp library.
+
+- library gatsby-remark-images. allows use of images inside markdown posts when processed with remark.
+
+- install gatsby-remark-relative images. allows sourcing of images relative to markdown file.
+
+- added plugins to gatsby-config (review how it was added)
