@@ -29,3 +29,5 @@ Nov 21 (3:18:00)
 - install gatsby-remark-relative images. allows sourcing of images relative to markdown file.
 
 - added plugins to gatsby-config (review how it was added)
+
+Nov 22
