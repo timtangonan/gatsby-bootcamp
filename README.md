@@ -31,3 +31,9 @@ Nov 21 (3:18:00)
 - added plugins to gatsby-config (review how it was added)
 
 Nov 22
+
+- additional blog styling.
+
+- installed Contentful Gatsby plugin to pull Contentful content (content content content)
+
+- encountered problem that was resolved by adding an image to a content.
