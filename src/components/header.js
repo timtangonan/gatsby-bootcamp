@@ -20,7 +20,7 @@ const Header = () => {
             <h1>
                 <Link className={headerStyles.title} to="/">{ data.site.siteMetadata.title }</Link>
             </h1>
-            <h2>A portfolio site by { data.site.siteMetadata.author }.</h2>
+            <h2 className={headerStyles.author}>A portfolio site by { data.site.siteMetadata.author }.</h2>
             <nav>
                 <ul className={headerStyles.navList}>
                     <li>

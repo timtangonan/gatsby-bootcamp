@@ -55,3 +55,5 @@ Nov 24 ()
 - create 404 page
 
 - use Helmet for page title - install gatsby-plugin-react-helmet and react-helmet (typing specific versions as indicated in the tutorial caused errors)
+
+- added environment variables in Netlify
