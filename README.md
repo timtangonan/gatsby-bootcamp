@@ -30,10 +30,28 @@ Nov 21 (3:18:00)
 
 - added plugins to gatsby-config (review how it was added)
 
-Nov 22
+Nov 22 (3:38:00)
 
 - additional blog styling.
 
 - installed Contentful Gatsby plugin to pull Contentful content (content content content)
 
+- set environment variables
+
 - encountered problem that was resolved by adding an image to a content.
+
+Nov 23 ()
+
+- check moment.js for date formatting
+
+- graphql queries can have arguments
+
+Nov 24 ()
+
+- by default, images don't show up; create options and add it to the rendering function
+
+- Contentful provides a library to display blog content: @contentful/rich-text-react-renderer
+
+- create 404 page
+
+- use Helmet for page title - install gatsby-plugin-react-helmet and react-helmet (typing specific versions as indicated in the tutorial caused errors)
